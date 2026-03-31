@@ -1,2 +1,2 @@
-# Primer_dia-_en-_la-_oficina
+# Primer_dia_en_la_oficina
 Pequeño proyecto en crecimiento...
